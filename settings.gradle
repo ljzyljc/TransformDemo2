@@ -1,0 +1,2 @@
+include ':app', ':transformplugin', ':TestAsm'
+rootProject.name='TransformDemo'
